@@ -10,7 +10,7 @@ Há mais de 8 anos atuo como Desenvolvedor Full Stack, com foco no backend com P
 
  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
  
- ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-008000.svg?style=for-the-badge&logo=nginx&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-blue.svg?style=for-the-badge&logo=docker&logoColor=white) 
+ ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-008000.svg?style=for-the-badge&logo=nginx&logoColor=white) ![express](https://img.shields.io/badge/express-90C53F.svg?style=for-the-badge&logo=express&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-blue.svg?style=for-the-badge&logo=docker&logoColor=white) 
  
  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)![MongoDB](https://img.shields.io/badge/mongodb-008000.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 # 📊 GitHub Stats:
