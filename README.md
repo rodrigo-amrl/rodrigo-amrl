@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Há mais de 9 anos atuo como Desenvolvedor Full Stack, com foco no backend com PHP e frontend Vue.js. 
+I have been working as a Full Stack Developer for over 9 years, focusing on the backend with PHP and frontend Vue.js.
 
 # 💻 Tech Stack:
 ![PHP](https://img.shields.io/badge/PHP-%231572B6.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
