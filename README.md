@@ -1,4 +1,4 @@
-# 💫 Sobre mim:
+# 💫 About me:
 I have been working as a Full Stack Developer for over 9 years, focusing on the backend with PHP and frontend Vue.js.
 
 # 💻 Tech Stack:
